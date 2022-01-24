@@ -2,7 +2,7 @@
 Frontend code
 <div>
 <b>Example post:</b>
-<a href="https://answerly.site/de/warum-hat-meine-katze-ihre-3-tagigen-alten-katzchen-getotet">https://answerly.site/de/warum-hat-meine-katze-ihre-3-tagigen-alten-katzchen-getotet</a>  
+<a target="_blank" rel="noopener noreferrer" href="https://answerly.site/de/warum-hat-meine-katze-ihre-3-tagigen-alten-katzchen-getotet">https://answerly.site/de/warum-hat-meine-katze-ihre-3-tagigen-alten-katzchen-getotet</a>  
 </div>
 <br/>
 <div>
