@@ -1,5 +1,6 @@
 # Answerly.site
 Frontend code
+Backend path './pages/api'
 <div>
 <b>Example post:</b>
 <a target="_blank" rel="noopener noreferrer" href="https://answerly.site/de/warum-hat-meine-katze-ihre-3-tagigen-alten-katzchen-getotet">https://answerly.site/de/warum-hat-meine-katze-ihre-3-tagigen-alten-katzchen-getotet</a>
