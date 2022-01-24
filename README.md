@@ -2,7 +2,11 @@
 Frontend code
 <div>
 <b>Example post:</b>
-<a target="_blank" rel="noopener noreferrer" href="https://answerly.site/de/warum-hat-meine-katze-ihre-3-tagigen-alten-katzchen-getotet">https://answerly.site/de/warum-hat-meine-katze-ihre-3-tagigen-alten-katzchen-getotet</a>  
+<a target="_blank" rel="noopener noreferrer" href="https://answerly.site/de/warum-hat-meine-katze-ihre-3-tagigen-alten-katzchen-getotet">https://answerly.site/de/warum-hat-meine-katze-ihre-3-tagigen-alten-katzchen-getotet</a>
+<div>
+<b>Sitemap:</b>
+<a href="https://answerly.site/Sitemap.xml">https://answerly.site/Sitemap.xml</a>
+</div>
 </div>
 <br/>
 <div>
@@ -16,4 +20,4 @@ Frontend code
   <h3>Screenshots</h3>
   <img src="https://i.imgur.com/XN3J9AG.png"/>
   <img src="https://i.imgur.com/GW9U0JD.png"/>
- </div>
+</div>
