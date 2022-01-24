@@ -1,0 +1,51 @@
+{
+  "name": "Answerly.site",
+  "short_name": "Answerly",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#90cdf4",
+  "theme_color": "#90cdf4",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/frageantwortenb.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/frageantwortenb.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/frageantwortenb.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/frageantwortenb.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/frageantwortenb.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "/frageantwortenb.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/frageantwortenb.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "/frageantwortenb.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
