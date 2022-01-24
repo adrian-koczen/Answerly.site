@@ -12,3 +12,8 @@ Frontend code
 &nbsp;
 <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
 </div>
+<div>
+  <h3>Screenshots</h3>
+  <img src="https://i.imgur.com/XN3J9AG.png"/>
+  <img src="https://i.imgur.com/GW9U0JD.png"/>
+ </div>
